@@ -1,11 +1,5 @@
-import Jumbotron.jsx from home.jsx
 
-Jumbotron div{
-    margin: auto;
-    
-
-
-}
+@import 'home.css';
 
 /* 
 
